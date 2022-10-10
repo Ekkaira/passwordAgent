@@ -22,7 +22,7 @@ Stack to use: React.
 3. ```npm install``` or ```yarn install```
 4. ```npm start``` or ```yarn start```
 
-## Run your application
+## Run application
 
 1. Open a new bash shell
 2. ```cd client```
