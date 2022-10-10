@@ -15,4 +15,16 @@ By default passwords should be hidden with "*", there should be an ability to re
 
 Stack to use: React.
 
+## Running the local service
 
+1. Open a new bash shell
+2. ```cd server```
+3. ```npm install``` or ```yarn install```
+4. ```npm start``` or ```yarn start```
+
+## Run your application
+
+1. Open a new bash shell
+2. ```cd client```
+3. ```npm install``` or ```yarn install```
+4. ```npm start``` or ```yarn start```
