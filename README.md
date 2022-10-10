@@ -15,6 +15,12 @@ By default passwords should be hidden with "*", there should be an ability to re
 
 Stack to use: React.
 
+## Technologies used:
+```React.js```
+```Node.js```
+```Express.js```
+```MongoDB```
+
 ## Running the local service
 
 1. Open a new bash shell
