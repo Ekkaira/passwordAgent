@@ -1,0 +1,8 @@
+{
+    "env": {
+        "ACC_NAME": "admin",
+        "ACC_PASS": "adminpassword",
+        "DB_NAME": "passwordsDB",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
